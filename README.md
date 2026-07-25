@@ -382,6 +382,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
+- <img src="https://raw.githubusercontent.com/AkashGoenka/coldstart/main/site/logo.svg" height="14" /> [AkashGoenka/coldstart](https://github.com/AkashGoenka/coldstart) - Codebase memory for coding agents, with no embeddings and no API key. A deterministic AST index answers "which files are relevant to this task?", and agents write durable notes about the repo that are content-hash checked so a note flags itself stale the moment the code it describes changes.
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - 🐙 [Octocode](https://github.com/bgauryy/octocode-mcp) -  AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
